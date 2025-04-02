@@ -1,0 +1,11 @@
+login: rodrigo013
+
+Senha: 4881
+
+email: rodrigo5592@yahoo.com.br
+
+Link do projeto:
+https://www.youtube.com/watch?v=RvAtOD1DPsQ&t=204s
+
+Link do material do projeto:
+https://pickle-reading-bd9.notion.site/py_live-013-03bf8be134a64551b76d9410c0ddadfb
