@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['']
 ALLOWED_HOSTS = ['*']
 ALLOWED_HOSTS = ['54.221.131.75']
+ALLOWED_HOSTS = ['54.221.131.75:8000']
 
 
 # Application definition
