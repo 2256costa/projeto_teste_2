@@ -1,5 +1,0 @@
-1. Para criar uma VM: py -m venv venv
-
-2. Pra criar uma pasta: mkdir NOME DA PASTA
-
-3. Para entra na VM: .\venv\Scripts\activate
